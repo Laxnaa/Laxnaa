@@ -1,4 +1,4 @@
-### Hi there 👋 I am learning github 😃
+### Hi there 👋, I am learning github 😃
 
 <!--
 **Laxnaa/Laxnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
